@@ -78,4 +78,4 @@ applenews:// or applenewss://
 - https://stackoverflow.com/questions/8722683/how-i-can-open-native-alarm-clock-in-iphone-by-using-code
 - https://developer.apple.com/library/archive/featuredarticles/iPhoneURLScheme_Reference/Introduction/Introduction.html#//apple_ref/doc/uid/TP40007899-CH1-SW1
 - https://gist.github.com/esprengle/d73c9e7a3757741a3860990fac8cd7d5
-- https://urlschemesiphone.information.jp/　*
+- * https://urlschemesiphone.information.jp/
