@@ -53,6 +53,16 @@
 - `clock-timer://`
 - `clock-timer-running://`
 
+# リマインダー
+- `x-apple-reminder://`
+
+# メール
+## ホーム画面
+- `message://`
+
+## 新規メール作成
+- `mailto://`
+
 # LINE
 
 ## 使えなかったもの
@@ -67,3 +77,5 @@ applenews:// or applenewss://
 - https://github.com/bhagyas/app-urls?tab=readme-ov-file
 - https://stackoverflow.com/questions/8722683/how-i-can-open-native-alarm-clock-in-iphone-by-using-code
 - https://developer.apple.com/library/archive/featuredarticles/iPhoneURLScheme_Reference/Introduction/Introduction.html#//apple_ref/doc/uid/TP40007899-CH1-SW1
+- https://gist.github.com/esprengle/d73c9e7a3757741a3860990fac8cd7d5
+- https://urlschemesiphone.information.jp/　*
